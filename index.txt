@@ -30,7 +30,7 @@ aria-label = menu
 
 👋, My name is Kevin
 
-I'm a Developer
+I'm a Developer , also into Content Management, SEO and Graphic Design
 
 Based in Ibadan, Oyo State, Nigeria.
 
